@@ -3,6 +3,7 @@
 
 ### 1. Xem hình ảnh
 ```
+![image](https://github.com/user-attachments/assets/a3658a70-d069-4f2e-a078-a598048b244c)
 
 
 ```
@@ -13,5 +14,4 @@
 # Config Account TDS & TTC by API
 ```
 
-![image](https://github.com/user-attachments/assets/b063adeb-72cc-4459-b22c-1a5e74752781)
 
