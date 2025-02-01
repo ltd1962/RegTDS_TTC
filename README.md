@@ -3,8 +3,8 @@
 
 ### 1. Xem hình ảnh
 ```
-# Link: "![image](https://github.com/user-attachments/assets/5f7209f6-40d9-4ea4-a10a-6979aa053ac6)
-"
+
+
 ```
 ### 2. Chức năng
 ```
@@ -12,3 +12,6 @@
 # Reg Account TDS & TTC by API
 # Config Account TDS & TTC by API
 ```
+
+![image](https://github.com/user-attachments/assets/b063adeb-72cc-4459-b22c-1a5e74752781)
+
