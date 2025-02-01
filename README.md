@@ -3,7 +3,8 @@
 
 ### 1. Xem hình ảnh
 ```
-# Link: "https://img.upanh.tv/2025/01/30/imagef8c26765b7efff03.png"
+# Link: "![image](https://github.com/user-attachments/assets/5f7209f6-40d9-4ea4-a10a-6979aa053ac6)
+"
 ```
 ### 2. Chức năng
 ```
