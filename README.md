@@ -6,6 +6,7 @@
 
 ### 2. Chức năng
 ```
+# Multi-Thread
 # Resolve Captcha by API
 # Reg Account TDS & TTC by API
 # Config Account TDS & TTC by API
